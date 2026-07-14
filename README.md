@@ -66,11 +66,11 @@ https://github.com/user-attachments/assets/72206fba-ff06-4f5f-9d9b-bbb2d5126fe4
 ## Project Files
 
 ```
-Arduino-4-Servo-Motors-Control/
-│── servo_sweep.ino
-│── README.md
+Servo-Motors-Sweep/
 │── circuit.png
-└── demo.mp4
+│── README.md
+│── Recording.mp4
+└── brilliant_jaban_jaagub1.ino
 ```
 ---
 
