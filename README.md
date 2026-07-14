@@ -50,7 +50,7 @@ All servo motors share the same **5V** and **GND** connections.
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](Circuit.png)
 
 ---
 
@@ -59,7 +59,7 @@ All servo motors share the same **5V** and **GND** connections.
 
 You can watch the project demonstration below:
 
-https://github.com/user-attachments/assets/c5c5cbb9-5a56-4d36-bfb0-91ba7997f345
+https://github.com/user-attachments/assets/72206fba-ff06-4f5f-9d9b-bbb2d5126fe4
 
 ---
 
